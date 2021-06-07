@@ -1,0 +1,9 @@
+h1 { font-size: large;
+    text-align:center;
+    text-decoration: underline;
+}
+
+h1 h2 {
+    display:block;
+    border: 3px solid black;
+}
