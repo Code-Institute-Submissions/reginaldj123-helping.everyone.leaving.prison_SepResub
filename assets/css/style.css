@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+
 h1 { font-size: large;
     text-align: center;
     text-decoration: underline black;
@@ -6,9 +7,12 @@ h1 { font-size: large;
 
 h1 h2 {
     display:block;
-    border: 3px solid black;
+    border-bottom: 3px solid black;
 }
 .logostyles {
     font-size:123px;
     font-family: 'Faster One', cursive;
+    margin: 0;
+    padding: 0;
+    border: 0;
 } 
