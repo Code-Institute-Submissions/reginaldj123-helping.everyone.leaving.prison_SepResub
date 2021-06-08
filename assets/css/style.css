@@ -13,12 +13,13 @@ h1 h2 {
     color:#252525;
 }
 .logostyles {
-    font-size:123px;
+    font-size:280%;
     font-weight: 300;
     font-family: 'Faster One', cursive;
     margin: 0;
     padding: 0;
     border: 0;
+    float: left;
 } 
 body {
     font-family: 'Faster One', cursive;
