@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Gloria+Hallelujah&display=swap');
 
 
-h1 { font-size: large;
+h1 { font-size: 200%;
     text-align: center;
+    text-decoration: underline;
     
 }
 
@@ -16,17 +17,18 @@ h1 h2 {
 }
 .logostyles {
     text-decoration: none;
-    font-size:300%;
+    font-size: 300%;
     font-weight: 300;
     font-family: 'Faster One', cursive;
     font-family: 'Gloria Hallelujah', cursive;
+    display:block;
     margin: 0;
     padding: 0;
     border: 0;
     float: left;
 } 
 body {
-    
+    background-color: aquamarine;
     font-weight: 300;
 }
 
