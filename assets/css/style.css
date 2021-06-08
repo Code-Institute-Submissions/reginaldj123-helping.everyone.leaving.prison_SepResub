@@ -25,7 +25,7 @@ h1 h2 {
     float: left;
 } 
 body {
-    font-family: 'Faster One', cursive;
+    
     font-weight: 300;
 }
 
@@ -35,4 +35,12 @@ body {
     border: 0;
 }
 
-#menu1 {:;}
+#menu1 { font-size: 110%;
+    letter-spacing: 4px;
+    font-family: 'Faster One', cursive;
+    font-family: 'Gloria Hallelujah', cursive;}
+
+    #menu1 li {float:right;
+    list-style:none;
+    margin-right:30px ;
+}
