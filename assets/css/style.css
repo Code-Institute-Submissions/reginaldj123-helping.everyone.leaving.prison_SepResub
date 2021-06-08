@@ -11,8 +11,13 @@ h1 h2 {
 }
 .logostyles {
     font-size:123px;
+    font-weight: 300;
     font-family: 'Faster One', cursive;
     margin: 0;
     padding: 0;
     border: 0;
 } 
+body {
+    font-family: 'Faster One', cursive;
+    font-weight: 300;
+}
