@@ -30,6 +30,7 @@ h1 h2 {
 body {
     background-color: aquamarine;
     font-weight: 300;
+    color: rgb(28, 4, 51);
 }
 
 * {
@@ -47,3 +48,9 @@ body {
     list-style:none;
     margin-right:30px ;
 }
+   #menu1 a {
+       text-decoration:none;
+       color:inherit;
+    }
+     
+    #menu1, .logostyles {line-height: 75px;}
