@@ -5,9 +5,12 @@ h1 { font-size: large;
     text-decoration: underline black;
 }
 
-h1 h2 {
+h1 h2 { 
+    letter-spacing: 4px;
+    text-transform: uppercase;
     display:block;
     border-bottom: 3px solid black;
+    color:#252525;
 }
 .logostyles {
     font-size:123px;
@@ -20,4 +23,10 @@ h1 h2 {
 body {
     font-family: 'Faster One', cursive;
     font-weight: 300;
+}
+
+* {
+    margin:0;
+    padding: 0;
+    border: 0;
 }
