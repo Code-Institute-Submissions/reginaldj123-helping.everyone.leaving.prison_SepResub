@@ -26,7 +26,28 @@ h1 h2 {
     padding: 0;
     border: 0;
     float: left;
+    }
+main-image {
+   height:600px;
+     width:100%;
+     background:url(../css/images/Image\ from\ iOS\ \(3\).jpg)no-repeat center center;}
+   
+     #main-image-holder {
+    height:600px;
+    width:100%;
+    overflow:hidden;
 } 
+    
+#main-image {
+   height:600px;
+     width:100%;
+     background:url(../css/images/Image\ from\ iOS\ \(3\).jpg)no-repeat center center;
+    }
+#main-image-holder {
+    height:600px;
+   width:100%;
+   overflow: hidden;
+    }
 body {
     background-color: aquamarine;
     font-weight: 300;
@@ -60,14 +81,11 @@ body {
     }
     .active {
         border-bottom: 1px solid #3a3a3a;
-    }
-    #main-image {
-        height:600px;
-          width:100%;
-          background:url(../css/images/Image\ from\ iOS\ \(3\).jpg)no-repeat center center;
-}
-     #main-image-holder {
-         height:600px;
-        width:100%;
-        overflow: hidden;
-    }
+
+
+
+
+
+
+
+
