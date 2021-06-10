@@ -119,4 +119,5 @@ input {
     width: calc(50% - 40px);
     margin: 10px auto;
     padding: 0 5px;
+    margin: top 50px; ;
 }
