@@ -57,3 +57,5 @@ We continually tweak and adjust this template to help give you the best experien
 ---
 
 Happy coding!
+## acknowledgements
+- [this was for help.jpg](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3)
