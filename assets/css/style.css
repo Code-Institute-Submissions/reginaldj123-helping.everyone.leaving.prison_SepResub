@@ -55,7 +55,7 @@ main-image {
 
 .help-image {
     width: 100%;
-    height:auto;
+    height:910px;
     background-image: url('/assets/css/images/help.jpg');
     background-size: cover;
     
