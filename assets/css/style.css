@@ -112,3 +112,11 @@ body {
     text-decoration: underline 1px blueviolet;
     text-align: center;
 }
+input {
+    display: block;
+    height: 32px;
+    font-size: 18px;
+    width: calc(50% - 40px);
+    margin: 10px auto;
+    padding: 0 5px;
+}
