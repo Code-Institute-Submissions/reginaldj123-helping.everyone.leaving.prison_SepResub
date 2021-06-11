@@ -96,6 +96,10 @@ body {
 #menu1,
 .logostyles {
     line-height: 75px;
+    height: 80px;
+    margin: 12px 20px;
+ }
+ 
 }
 
 #menu1 a:hover {
