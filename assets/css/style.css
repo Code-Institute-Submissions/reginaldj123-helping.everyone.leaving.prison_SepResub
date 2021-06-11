@@ -100,7 +100,7 @@ body {
     margin: 12px 20px;
  }
  
-}
+
 
 #menu1 a:hover {
     border-bottom: 1px solid blueviolet;
@@ -125,7 +125,44 @@ input {
     padding: 0 5px;
     margin: top 50px;
 }
+input[type=submit] {
+    border-radius: 4px;
+    background: blueviolet;
+    color: white;
+    height: 32px;
+    display: block;
+    font-size: 18px;
+    width: calc(50% - 30px);
+    margin: 10px auto;
+    padding: 0 5px;
+ }
+  
+ 
  h2 { 
      font-size:26px;
     }
+ /* footer */
+ footer i {
+    font-size: 150%;
+    margin: 5px;
+    padding: 15px 20px 10px 20px;
+    color: white;
+    display: inline;
+}
+
+footer a:hover i {
+    transform: rotate(15deg) scale(1.5);
+    color: aquamarine;
+}
+
+footer {
+    height: 100%;
+    background-color: black;
     
+    color:aquamarine;
+}
+
+.text-centered {
+
+    text-align: center;
+}
