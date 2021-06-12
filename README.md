@@ -59,3 +59,4 @@ We continually tweak and adjust this template to help give you the best experien
 Happy coding!
 ## acknowledgements
 - [this was for help.jpg](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3)
+-[this was help for the footer contact icons](https://fontawesome.com/v4.7/icons/)
