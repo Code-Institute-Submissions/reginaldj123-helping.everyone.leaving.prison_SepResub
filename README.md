@@ -1,31 +1,30 @@
 # helping.everyone.leaving.prison
+![help view ports]() 
+The purpose of this webpage is  to help  people coming out of prison who whant to turn there life around.it will give the user access to their own account  where    they can directly apply into work with companies we have liased  with  that understand the importance  of change.
+## Features
 
-The purpose of this webpage is  to help  people coming out of prison who whant to turn there life around.
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-this is the home page
 ### Existing Features
 
 - __Navigation Bar__
+![Nav Bar]()
+the nav  bar  at the  top right  hand corner   consists of 3 links that will further ur experience
+on the website  Home ,sign up, sign out.
+the home is where u start of  from there ucan navigate arounfd using the help logo feture  on the top left corner i would have had another link in there but to lack of timing i cannot add the register link wer they would have been able to sign up.
 
- talk about navigation menu
+- __The home page__
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+  the home page consisits of the nav bar, the logo link in the nav bar, a video and footer, this the main page and the purpose is to inform you of how change can be made through the video and more information i would have provided but wasnt able due to loss of tim and lack of experience using git pod and others.
 
-- __The home page image__
-
-  where i would put home info
-
+  there is a main logo for the web page on the background and a video informing how some one had turnt themselves around and how you yourself are the oly limit to your possibilities.
+   i would have centered the video and had it alot smaller but due to lack of time im having to go ahead.
 ![home Page](https://github.com/reginaldj123/helping.everyone.leaving.prison/blob/master/assets/images/home-page-screenshot.png)
 
-- __Club Ethos Section__
+- __log in__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The log in section will allow the user to use all aspect of registering with help. it is from there after filling your email and password that u will then be able to access the fetures we offer. 
+  - They will b able to learn about us get into education,employment and training.you can also download cv templates and youwill be able to create some of your own this way 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![login screen ]
 
 - __Meetup Times section__
 
