@@ -43,7 +43,7 @@ body {
 }
 
 .help-image {
-    background-image: url('/assets/css/images/help.jpg');
+    background-image: url('assets/css/images/help.jpg');
     /* Full height */
     height: 100%;
     /* Center and scale the image nicely */
