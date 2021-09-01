@@ -186,6 +186,32 @@ footer {
     font-size: 18px;
     margin-top: 22px;
 }
+
+/* buttons */
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.btn {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 24px;
+    color: rgb(28, 4, 51);
+    background: aquamarine;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+}
+
+
+.btn:hover {
+    color: black;
+    background: teal;
+}
+
 /* tablets  (767px and smaller) */
 @media screen and (max-width: 768px) {
     .logostyles {
