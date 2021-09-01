@@ -41,6 +41,11 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 ![image](https://user-images.githubusercontent.com/80925381/131751051-e080efe0-54b1-4118-a8ec-83e001491fc0.png)
 ![image](https://user-images.githubusercontent.com/80925381/131751508-fe3b53fe-1f6b-415c-8530-9b24b4b497bd.png)
 
+- __cv page__
+  -   the cv page has informtion ppl can use for there own and links to pages full of cv templates
+  
+![image](https://user-images.githubusercontent.com/80925381/131753801-84bdae1a-06e7-424f-a6e4-514717ba7227.png)
+
 
 
 ![Footer]()
@@ -53,6 +58,10 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 ### validation
 - index.html
 ![image](https://user-images.githubusercontent.com/80925381/131749552-482a5a00-5444-484b-b69a-d59fda75ccc1.png)
+
+- cv.html
+![image](https://user-images.githubusercontent.com/80925381/131754112-79cad882-2c99-4cbc-8572-bff56b90a1c2.png)
+
 
 i have had alot of problems during this assignment and due to my lack of expierience with the platforms we use slack , skype  gitpod and github, i have found it very testing. i have just come out of prison not long ago so this project is something i have alot more work to put into but due to lack of time i havent been able to bug check or test my program to the best ability 
  
