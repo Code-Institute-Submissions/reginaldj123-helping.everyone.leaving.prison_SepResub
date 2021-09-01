@@ -34,6 +34,14 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 
   - The footer section includes links to the relevant social media sites for h.e.l.p. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+ 
+- __welcome page__
+  -   the welcome page has three buttons for you to click into cv employment and education
+  -   on desktop buttons are side by side in one row on mobile phones they are in a column seated ontop of each other.
+![image](https://user-images.githubusercontent.com/80925381/131751051-e080efe0-54b1-4118-a8ec-83e001491fc0.png)
+![image](https://user-images.githubusercontent.com/80925381/131751508-fe3b53fe-1f6b-415c-8530-9b24b4b497bd.png)
+
+
 
 ![Footer]()
 
@@ -44,7 +52,7 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 ## Testing 
 ### validation
 - index.html
-<img src="blob:chrome-untrusted://media-app/7b3ca995-091d-4a25-acc5-466979f808e0" alt="index.html validation.png"/>![image](https://user-images.githubusercontent.com/80925381/131749552-482a5a00-5444-484b-b69a-d59fda75ccc1.png)
+![image](https://user-images.githubusercontent.com/80925381/131749552-482a5a00-5444-484b-b69a-d59fda75ccc1.png)
 
 i have had alot of problems during this assignment and due to my lack of expierience with the platforms we use slack , skype  gitpod and github, i have found it very testing. i have just come out of prison not long ago so this project is something i have alot more work to put into but due to lack of time i havent been able to bug check or test my program to the best ability 
  
