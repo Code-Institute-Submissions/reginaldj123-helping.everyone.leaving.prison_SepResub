@@ -43,8 +43,16 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 
 - __cv page__
   -   the cv page has informtion ppl can use for there own and links to pages full of cv templates
+ 
   
 ![image](https://user-images.githubusercontent.com/80925381/131753801-84bdae1a-06e7-424f-a6e4-514717ba7227.png)
+
+ __employment page__
+  -   the employment page has informtion people can use to find organisations that help people wanting employment
+  -   on desktop buttons are side by side in one row on mobile phones they are in a column seated ontop of each other.
+  
+
+
 
 
 
@@ -62,6 +70,8 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 - cv.html
 ![image](https://user-images.githubusercontent.com/80925381/131754112-79cad882-2c99-4cbc-8572-bff56b90a1c2.png)
 
+- employment.html
+![image](https://user-images.githubusercontent.com/80925381/131755542-b617ead3-ec3f-4bfd-95be-5c73a962e40f.png)
 
 i have had alot of problems during this assignment and due to my lack of expierience with the platforms we use slack , skype  gitpod and github, i have found it very testing. i have just come out of prison not long ago so this project is something i have alot more work to put into but due to lack of time i havent been able to bug check or test my program to the best ability 
  
