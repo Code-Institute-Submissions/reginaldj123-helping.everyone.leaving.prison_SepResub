@@ -50,6 +50,8 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
  __employment page__
   -   the employment page has informtion people can use to find organisations that help people wanting employment
   -   on desktop buttons are side by side in one row on mobile phones they are in a column seated ontop of each other.
+  ![image](https://user-images.githubusercontent.com/80925381/131756309-d9cfcc43-cf49-43e4-8763-1bd123f0ff0a.png)
+
   
 
 
