@@ -42,6 +42,10 @@ the home is where u start of  from there ucan navigate arounfd using the help lo
 - Another feature idea  would b to add the register link to the nav bar from there user will b able to sign up to the page storing there information to b passefd on to various companies that can help them.
 
 ## Testing 
+### validation
+- index.html
+<img src="blob:chrome-untrusted://media-app/7b3ca995-091d-4a25-acc5-466979f808e0" alt="index.html validation.png"/>![image](https://user-images.githubusercontent.com/80925381/131749552-482a5a00-5444-484b-b69a-d59fda75ccc1.png)
+
 i have had alot of problems during this assignment and due to my lack of expierience with the platforms we use slack , skype  gitpod and github, i have found it very testing. i have just come out of prison not long ago so this project is something i have alot more work to put into but due to lack of time i havent been able to bug check or test my program to the best ability 
  
 ## Deployment
