@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Gloria+Hallelujah&display=swap');
 
-
 h1 {
     font-size: 200%;
     text-align: center;
@@ -187,3 +186,36 @@ footer {
     font-size: 18px;
     margin-top: 22px;
 }
+/* tablets  (767px and smaller) */
+@media screen and (max-width: 768px) {
+    .logostyles {
+       font-size: 300%;
+    }
+  }
+  
+  
+  /* Small devices (landscape phones, 576px and smaller) */
+  @media screen and (max-width: 576px) {
+      /* get navigation to be smaller on small devices */
+      .logostyles {
+          FONT-VARIANT: JIS83;
+          height: 40px;
+          margin: 0 0 0 10px;
+          line-height: 40px;
+          font-size: 100%;
+          letter-spacing: 2px;
+      }
+      #menu1{
+          margin: 0 10px 0 0;
+          letter-spacing: 1px;
+  
+      }
+  
+      #menu1 li {
+          margin: 0 0 0 10px;
+          font-size: 18px;
+          line-height: 40px;
+          height: 40px;
+      }
+  }
+  
