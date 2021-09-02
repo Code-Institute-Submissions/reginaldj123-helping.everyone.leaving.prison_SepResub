@@ -80,11 +80,10 @@ The purpose of this webpage is  to help  people coming out of prison who whant t
 - employment.html
 ![image](https://user-images.githubusercontent.com/80925381/131755542-b617ead3-ec3f-4bfd-95be-5c73a962e40f.png)
 
-i have had alot of problems during this assignment and due to my lack of expierience with the platforms we use slack , skype  gitpod and github, i have found it very testing. i have just come out of prison not long ago so this project is something i have alot more work to put into but due to lack of time i havent been able to bug check or test my program to the best ability 
- 
-## Deployment
+- styles.css
+![image](https://user-images.githubusercontent.com/80925381/131915230-931f2e37-d2a5-4c64-8a50-b5e3cd98a79b.png)
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
