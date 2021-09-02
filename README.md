@@ -1,64 +1,69 @@
 # helping.everyone.leaving.prison
-![help view ports]() 
+![image](https://user-images.githubusercontent.com/80925381/131910981-e370e34d-509e-4dda-b176-973701a5664d.png)
+
 The purpose of this webpage is  to help  people coming out of prison who whant to turn there life around.it will give the user access to their own account  where    they can directly apply into work with companies we have liased  with  that understand the importance  of change.
+
+[deplyed url](https://reginaldj123.github.io/helping.everyone.leaving.prison/index.html)
+
+
 ## Features
 
 ### Existing Features
 
-- __Navigation Bar__
-![Nav Bar]()
-the nav  bar  at the  top right  hand corner   consists of 3 links that will further ur experience
-on the website  Home ,sign up, sign out.
-the home is where u start of  from there ucan navigate arounfd using the help logo feture  on the top left corner i would have had another link in there but to lack of timing i cannot add the register link wer they would have been able to sign up.
+**Navigation Bar**
+![image](https://user-images.githubusercontent.com/80925381/131911394-91740e4b-40b3-4286-9027-6c6d2109cdaf.png)
+![image](https://user-images.githubusercontent.com/80925381/131911446-b5198243-9819-4801-9a0a-733cae408d18.png)
 
-- __The home page__
+- the nav  bar  at the  top right  hand corner   consists of  links on the left that will further your experience
+- there is an icon onthe left that takes you to the home page.
+- the logged in menu has home log out cvs jobs and education links.
+- the logged out menu has home and log in link.
+
+**The home page**
 
   the home page consisits of the nav bar, the logo link in the nav bar, a video and footer, this the main page and the purpose is to inform you of how change can be made through the video and more information i would have provided but wasnt able due to loss of tim and lack of experience using git pod and others.
 
   there is a main logo for the web page on the background and a video informing how some one had turnt themselves around and how you yourself are the oly limit to your possibilities.
-   i would have centered the video and had it alot smaller but due to lack of time im having to go ahead.
+
 ![home Page](https://github.com/reginaldj123/helping.everyone.leaving.prison/blob/master/assets/images/home-page-screenshot.png)
 
-- __log in__
+**log in**
 
   - The log in section will allow the user to use all aspect of registering with help. it is from there after filling your email and password that u will then be able to access the fetures we offer. 
   - They will b able to learn about us get into education,employment and training.you can also download cv templates and youwill be able to create some of your own this way 
 
 ![login screen ](https://github.com/reginaldj123/helping.everyone.leaving.prison/blob/master/assets/images/login-screen.png)
 
-- __log out __
+**log out**
 
   - This section  will alow th user to log out of therer account and then it returns them back to the hone page
 
-- __The Footer__ 
+**The Footer**
+![image](https://user-images.githubusercontent.com/80925381/131912642-dc2cc4c6-8c68-4283-b06e-db27cbc0dd9a.png)
 
   - The footer section includes links to the relevant social media sites for h.e.l.p. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
  
-- __welcome page__
+**welcome page**
   -   the welcome page has three buttons for you to click into cv employment and education
   -   on desktop buttons are side by side in one row on mobile phones they are in a column seated ontop of each other.
 ![image](https://user-images.githubusercontent.com/80925381/131751051-e080efe0-54b1-4118-a8ec-83e001491fc0.png)
 ![image](https://user-images.githubusercontent.com/80925381/131751508-fe3b53fe-1f6b-415c-8530-9b24b4b497bd.png)
 
-- __cv page__
-  -   the cv page has informtion ppl can use for there own and links to pages full of cv templates
- 
-  
-![image](https://user-images.githubusercontent.com/80925381/131753801-84bdae1a-06e7-424f-a6e4-514717ba7227.png)
+**cv page**
+![image](https://user-images.githubusercontent.com/80925381/131912809-25ae7fdc-2dcc-4a0e-8eb1-1016e3c93bc7.png)
 
- __employment page__
+  -   the cv page has informtion ppl can use for there own and links to pages full of cv templates
+
+ **employment page**
   -   the employment page has informtion people can use to find organisations that help people wanting employment
   -   on desktop buttons are side by side in one row on mobile phones they are in a column seated ontop of each other.
   ![image](https://user-images.githubusercontent.com/80925381/131756309-d9cfcc43-cf49-43e4-8763-1bd123f0ff0a.png)
 
-  
 
-
-
-
-
-![Footer]()
+**education**
+![image](https://user-images.githubusercontent.com/80925381/131913225-e570bc0c-9ac2-439b-8670-17fb41103c6e.png)
+- presents information for the user to help geting back into education that will push them into long term carears.
 
 ### Features Left to Implement
 
