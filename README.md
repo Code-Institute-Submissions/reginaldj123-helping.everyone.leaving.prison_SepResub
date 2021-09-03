@@ -74,14 +74,96 @@ The purpose of this webpage is  to help  people coming out of prison who whant t
 - index.html
 ![image](https://user-images.githubusercontent.com/80925381/131749552-482a5a00-5444-484b-b69a-d59fda75ccc1.png)
 
+
 - cv.html
 ![image](https://user-images.githubusercontent.com/80925381/131754112-79cad882-2c99-4cbc-8572-bff56b90a1c2.png)
+
 
 - employment.html
 ![image](https://user-images.githubusercontent.com/80925381/131755542-b617ead3-ec3f-4bfd-95be-5c73a962e40f.png)
 
+ 
+
 - styles.css
 ![image](https://user-images.githubusercontent.com/80925381/131915230-931f2e37-d2a5-4c64-8a50-b5e3cd98a79b.png)
+## Manual testing, how i tested each page/feature:
+
+- Logged Out Navigation
+- Logged out pages are: 
+- Index.html
+- login.html
+- Went to each page and clicked on logo, it should go to index.html.
+- Went to each page and clicked on Home navigation link, it should go to index.html.
+- Went to each page and clicked on Login navigation link, it should go to login.html.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with moto G4 emulator.
+ 
+- Logged In Navigation
+- Logged out pages are:
+- welcome.html
+- Education.html
+- Employment.html
+- Cv.html
+ 
+ 
+#### Repeated steps on each page:
+- Click on HELP logo, it should go to index.html
+- Click on helping.everyone.leaving.prison link, it should go to index.html
+- Click on logout, it should go to index.html
+- Click on CVS, it should go to CV.html
+- Click on Jobs, it should go to Employment.html
+- Click on Education, it should go to Education.html
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+ 
+###### Footer
+went to all pages and make sure links go where you expect them to:
+- Facebook - new tab
+- Twitter - new tab
+- Instagram - new tab
+- Youtube - new tab
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+###### Login page
+- Tried submitting an empty form, to see the error about email
+- Entered just letters in email, to see the error about the email
+- Entered a valid email but no password, see the error about the pass word
+- When page submits, user should go to welcome.html page and navigation should change.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+
+###### Index.hmtl/HomePage
+- See that the video plays.
+- See that you can pause the video.
+- Made sure you can adjust the sound.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+
+###### Welcome.html
+- Make sure buttons have hover state.
+- Make sure buttons are one column on small devices.
+- Made sure footer links open in new tab.s
+- Make sure nav links go to right pages.
+- Make sure buttons go to right pages.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+ 
+###### Education.html
+- Made sure links to other sites open in new tab.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+ 
+###### CV.html
+- Made sure links to other sites open in new tab.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+ 
+###### Employment.html
+- Made sure links to other sites open in new tab.
+- Made sure it looked good on my laptop full screen.
+- Made sure it looked good on chrome with motoG4 emulator.
+
+
 
 ## Deployment
 
@@ -91,10 +173,6 @@ The purpose of this webpage is  to help  people coming out of prison who whant t
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://reginaldj123.github.io/helping.everyone.leaving.prison/
-
-
-
-
 ### Content 
 
 - The text for the Home page was taken from google fonts
