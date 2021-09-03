@@ -185,4 +185,9 @@ The live link can be found here - https://reginaldj123.github.io/helping.everyon
 - and the youtube video was sourced from youtube in the direction of beinging your project.
 ## acknowledgements
 - [this was for help.jpg](https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_image_background3)
+
 -[this was help for the footer contact icons](https://fontawesome.com/v4.7/icons/)
+
+- [this was help for the content on both employmet.html and education.html](https://www.publicservicedegrees.org/resources/education-and-careers-after-incarceration/)
+
+- [this was help for the content on cv.html](https://www.canva.com/t/EADao6TOre0-periwinkle-minimalist-marketing-manager-corporate-resume/)
